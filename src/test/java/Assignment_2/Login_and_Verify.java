@@ -15,8 +15,8 @@ public class Login_and_Verify
 		driver.manage().window().maximize();
 		
 		////Locate UserName and Password fields
-		driver.findElement(By.id("Email")).sendKeys("princesstarushi1219@gmail.com");
-		driver.findElement(By.id("Password")).sendKeys("Test@123");
+		driver.findElement(By.id("Email")).sendKeys("shifali92garg@gmail.com");
+		driver.findElement(By.id("Password")).sendKeys("shifali@92");
 				
 		////Locate the Login Button
 		driver.findElement(By.xpath("//button[normalize-space()='Log in']")).click();

@@ -4,7 +4,7 @@ import java.time.Duration;
 
 import org.openqa.selenium.firefox.FirefoxDriver;
 
-public class Open_Site_and_Print_Title 
+public class Get_Title_ofPage_and_Print_it 
 {
 	public static void main(String args[]) throws InterruptedException
 	{
